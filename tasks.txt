@@ -1,8 +1,8 @@
 Lista de cumparaturi
-Lapte,1
-Paine,1
-Fructe,1
-Mere,1
-Portocale,1
-Grapefruit,1
+Lapte,0
+Paine,0
+Fructe,0
+Mere,0
+Portocale,0
+Grapefruit,0
 Banane,0
